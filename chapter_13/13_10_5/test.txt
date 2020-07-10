@@ -1,0 +1,6 @@
+words
+food
+name
+good
+well
+kind
