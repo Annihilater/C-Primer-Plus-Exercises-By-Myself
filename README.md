@@ -22,8 +22,8 @@ Solutions to exercises from the book [C Primer Plus](http://www.amazon.com/Prime
 - [Chapter 13: File Input/Output](https://github.com/Annihilater/C-Primer-Plus-Exercises-By-Myself/tree/master/chapter_13)
 - [Chapter 14: Structures and Other Data Forms](https://github.com/Annihilater/C-Primer-Plus-Exercises-By-Myself/tree/master/chapter_14)
 - [Chapter 15: Bit Fiddling](https://github.com/Annihilater/C-Primer-Plus-Exercises-By-Myself/tree/master/chapter_15)
-- [Chapter 16: The C Preprocessor and C Library]()
-- [Chapter 17: Advanced Data Representation]()
+- [Chapter 16: The C Preprocessor and C Library](https://github.com/Annihilater/C-Primer-Plus-Exercises-By-Myself/tree/master/chapter_16)
+- [Chapter 17: Advanced Data Representation](https://github.com/Annihilater/C-Primer-Plus-Exercises-By-Myself/tree/master/chapter_17)
 
 ![image-20200710110144106](https://klause-blog-pictures.oss-cn-shanghai.aliyuncs.com/uPic/image-20200710110144106.png)
 
