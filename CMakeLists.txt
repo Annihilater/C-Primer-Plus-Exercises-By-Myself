@@ -3,4 +3,4 @@ project(C_primer_plus C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(C_primer_plus chapter_15/15_9_6_2.c)
+add_executable(C_primer_plus main.c)
